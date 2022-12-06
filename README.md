@@ -54,8 +54,8 @@ The program is written according to SOLID principles, Dependency Injection desig
 
 ## 📎 How to start the program
 1. Clone the project from GitHub
-2. Use [`/resources/init_db.sql`](https://github.com/Pavlo-Gook/taxi-service/blob/main/src/main/resources/init_db.sql) to create a schema and tables
-3. Configure [`/util/ConnectionUtil.java`](https://github.com/Pavlo-Gook/taxi-service/blob/main/src/main/java/taxi/util/ConnectionUtil.java#L9) with your own URL, username, password and JDBC driver
+2. Use [`/resources/init_db.sql`](https://github.com/pavlogook/taxi-service/blob/main/src/main/resources/init_db.sql) to create a schema and tables
+3. Configure [`/util/ConnectionUtil.java`](https://github.com/pavlogook/taxi-service/blob/main/src/main/java/taxi/util/ConnectionUtil.java#L9) with your own URL, username, password and JDBC driver
 4. Configure Tomcat server (it is recommended to use [version 9.0.50](https://archive.apache.org/dist/tomcat/tomcat-9/v9.0.50/bin/))
 5. Run and enjoy the program 😉
 
