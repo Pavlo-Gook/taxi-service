@@ -44,7 +44,7 @@ The program is written according to SOLID principles, Dependency Injection desig
 |:-----------|:--------|
 | JDK        | 11      |
 | Maven      | 4.0.0   |
-| TomCat     | 9.0.50  |
+| Tomcat     | 9.0.50  |
 | MySQL      | 8.0.22  |
 | JDBC       | -       |
 | Servlet    | 4.0.1   |
